@@ -189,8 +189,7 @@
     "id" : "page-metadata",
     "fields": [
       {
-        "component": "text",
-        "valueType": "string",
+        "component": "text",       
         "name": "modelCode",
         "label": "ModelCode"
       }
