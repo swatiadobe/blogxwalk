@@ -192,6 +192,11 @@
         "component": "text",       
         "name": "modelCode",
         "label": "ModelCode"
+      },
+      {
+        "component": "text",       
+        "name": "submodelCode",
+        "label": "SubModelCode"
       }
     ]
   }
